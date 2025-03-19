@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "0d1ddb8f14a7d966",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f5dd5ca79e5ac4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "059675c7d155c44b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f115bfcf6eeb3430",
+    "type": "split",
+    "children": [
+      {
+        "id": "537330f4a8fac0fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b977d49a629bf1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "cc1ae765f178017a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4685f124eb4990af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab2851e62b3fcb5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a053e533cef09972",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5875ef4e9bb3e12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "interview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "interview 的反向链接列表"
+            }
+          },
+          {
+            "id": "032754a69189c5b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "interview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "interview 的出链列表"
+            }
+          },
+          {
+            "id": "7322b77a9378b939",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2782397483228611",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "interview.md"
+              },
+              "icon": "lucide-list",
+              "title": "interview 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6b977d49a629bf1c",
+  "lastOpenFiles": [
+    "interview-note/欢迎.md",
+    "interview-note",
+    "interview.md"
+  ]
+}
